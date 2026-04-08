@@ -1,0 +1,30 @@
+        nav {
+    background-color: #e97575;
+}
+header {
+    background-color: #ffe3e3;
+    padding: 20px;
+    text-align: center;
+}
+section {
+    background-color: #fff0f0;
+    padding: 20px;
+}
+footer {
+    background-color: #e97575;
+    padding: 20px;
+    text-align: center;
+}
+article {
+    background-color: #fff0f0;
+    padding: 20px;
+}
+a {
+    color: #e97575;
+}
+h1 {
+    color: #e97575;
+}
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
